@@ -4,6 +4,7 @@
 #include<time.h>
 #include<Windows.h>
 
+
 void frontmenudrawing(void);
 void answerintextfiles(int day);
 void answereddiefunction(int i);
